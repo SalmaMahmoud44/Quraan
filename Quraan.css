@@ -46,7 +46,6 @@ div button:hover
     width: 600px;
     height: 300px;
     border-radius: 50px;
-    display: flex;
     justify-content: center;
 }
 
